@@ -1,0 +1,41 @@
+- title: HOME
+  url: "/"
+  side: left
+
+- title: RESEARCH
+  url: "/research/"
+  side: left
+
+- title: PUBLICATIONS
+  url: "/publications/"
+  side: left
+
+- title: PEOPLE
+  url: "/people/"
+  side: left
+  dropdown:
+  - title: About Roel Verhaak
+    url: "/about/"
+  - title: Lab Members
+    url: "/people/"    
+
+- title: RESOURCES
+  url: "/resources/"
+  side: left
+
+- title: News
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Recent
+    url: "/blog/"
+  - title: "Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

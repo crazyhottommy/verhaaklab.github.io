@@ -1,0 +1,13 @@
+- menu_name: "Quick Links"
+
+- name: "Research"
+  url: "/research/"
+
+- name: "People"
+  url: "/people/"
+
+- name: "Resources"
+  url: "/resources/"
+
+- name: "Contact"
+  url: "/contact/"
