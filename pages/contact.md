@@ -32,7 +32,7 @@ The UT MD Anderson Cancer Center
 3SCR6.4111   
 Houston, TX 77054  
 
-<a class="list-group-item" href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="http://verhaaklab.github.io/feed.xml" title="Updates via RSS feed" alt="Updates via RSS feed"><i class="fa fa-rss fa-2x"></i></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="http://goo.gl/maps/hjGce" title="Driving directions" alt="Driving directions"><i class="fa fa-car fa-2x"></i></a>
+<a class="list-group-item" href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="http://verhaaklab.github.io/feed.xml" title="Updates via RSS feed" alt="Updates via RSS feed"><i class="fa fa-rss fa-2x"></i></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="https://goo.gl/maps/AI1Lb" title="Driving directions" alt="Driving directions"><i class="fa fa-car fa-2x"></i></a>
 
 #### Administrative support:  
 
