@@ -11,10 +11,7 @@ permalink: "/search/"
   <input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
 </form>
 
-<!-- Search form -->
-<form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
-  <label for="q">Search {{ site.title }} for:</label>
-  <input type="search" name="q" id="q" placeholder="What are you looking for?" data-search-input id="goog-wm-qt" autofocus />
-  <input type="submit" value="Search" id="goog-wm-sb" />
-</form>
+#### Can't find what you're looking for?
+
+<a class="list-group-item" href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="http://verhaaklab.github.io/feed.xml" title="Updates via RSS feed" alt="Updates via RSS feed"><i class="fa fa-rss fa-2x"></i></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="{{ site.url }}/contact/" title="Contact Us" alt="Contact Us"><i class="fa fa-envelope fa-2x"></i></a>
 
