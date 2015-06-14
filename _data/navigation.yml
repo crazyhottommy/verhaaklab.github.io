@@ -34,8 +34,8 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
+  side: left
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: left

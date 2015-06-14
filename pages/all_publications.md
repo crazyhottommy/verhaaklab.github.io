@@ -1,22 +1,32 @@
 ---
 layout: page
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+title: "All publications since 2004"
+#subheadline: ""
+#teaser: ""
 permalink: "/all_publications/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+#   image_fullwidth: "header_roadmap_2.jpg"
 comments: false
 show_meta: false
 ---
+<div class="panel radius" markdown="1">
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
-All Publications since 2004:
-2015
+#### 2015
 
 Kim H, Zheng S, ..,Verhaak RG. Whole-genome and multisector exome sequencing of primary and post-treatment glioblastoma reveals patterns of tumor evolution. 
 Genome Res.
 
-2014
+<div id="up-to-top" class="row">
+  <div class="small-12 columns" style="text-align: right;">
+    <a style="text-align: right;" href="#top-of-page" title="Top of the page" alt="Top of the page"><i class="fa fa-chevron-circle-up fa-2x"></i></a>
+  </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+#### 2014
 
 Yoshihara, K. and Verhaak RG. Hiding in the dark: uncovering cancer drivers through image-guided genomics. 
 Genome Biology.
@@ -66,7 +76,13 @@ PLoS One.
 Chudnovsky Y, Kim D, Zheng S, et al. ZFHX4 Interacts with the NuRD Core Member CHD4 and Regulates the Glioblastoma Tumor-Initiating Cell State. 
 Cell Reports.
 
-2013
+<div id="up-to-top" class="row">
+  <div class="small-12 columns" style="text-align: right;">
+    <a style="text-align: right;" href="#top-of-page" title="Top of the page" alt="Top of the page"><i class="fa fa-chevron-circle-up fa-2x"></i></a>
+  </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+#### 2013
 
 Zheng S, Verhaak RG. Intragenic breakpoint: A marker of genome instability in glioblastoma. 
 Cell Cycle.
@@ -105,7 +121,14 @@ Verhaak RG, Tamayo P, Yang JY, et al. Prognostically relevant gene expression si
 Journal of Clinical Investigation.
 Perspective by GenomeWeb
 Perspective by Nature Reviews Clinical Oncology
-2012
+
+<div id="up-to-top" class="row">
+  <div class="small-12 columns" style="text-align: right;">
+    <a style="text-align: right;" href="#top-of-page" title="Top of the page" alt="Top of the page"><i class="fa fa-chevron-circle-up fa-2x"></i></a>
+  </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+#### 2012
 
 Verhaak RG, Mills GB. Regulation of mRNA expression in breast cancer - a cis-tematic trans-action. 
 Breast Cancer Research.
@@ -131,7 +154,13 @@ Nature.
 Zheng S, Chheda MG, Verhaak RG. Studying a complex tumor: potential and pitfalls. 
 The Cancer Journal.
 
-2011
+<div id="up-to-top" class="row">
+  <div class="small-12 columns" style="text-align: right;">
+    <a style="text-align: right;" href="#top-of-page" title="Top of the page" alt="Top of the page"><i class="fa fa-chevron-circle-up fa-2x"></i></a>
+  </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+#### 2011
 
 Cho J, Pastorino S, Zeng Q, et al. Glioblastoma-derived epidermal growth factor receptor carboxyl-terminal deletion mutants are transforming and are sensitive to EGFR-directed therapies. 
 Cancer Research.
@@ -153,7 +182,13 @@ Nature.
 Wang XV, Verhaak RG, Purdom E, et al. Unifying gene expression measures from multiple platforms using factor analysis. 
 PLoS One.
 
-2010
+<div id="up-to-top" class="row">
+  <div class="small-12 columns" style="text-align: right;">
+    <a style="text-align: right;" href="#top-of-page" title="Top of the page" alt="Top of the page"><i class="fa fa-chevron-circle-up fa-2x"></i></a>
+  </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+#### 2010
 
 Noushmehr, H, Weisenberger, DJ, Diefes, K, et al. Identification of a CpG island methylator phenotype that defines a distinct subgroup of glioma. 
 Cancer Cell.
@@ -166,7 +201,8 @@ Cancer Cell.
 Press release with comments from Francis Collins, John Niederhuber and Eric Green
 Nature News article
 Listed as highly cited cancer paper by Nature Medicine
-2009
+
+#### 2009
 
 Verhaak RG, Wouters BJ, Erpelinck CA, et al.Prediction of molecular subtypes in acute myeloid leukemia based on gene expression profiling. 
 Haematologica.
@@ -180,7 +216,7 @@ Journal of Clinical Investigation.
 Bass, AJ, Watanabe, H, Mermel, CH, et al. SOX2 is an amplified lineage-survival oncogene in lung and esophageal squamous cell carcinomas. 
 Nature Genetics.
 
-2008
+#### 2008
 
 Shedden, K, Taylor, JM, Enkemann, SA, et al. Gene expression-based survival prediction in lung adenocarcinoma: a multi-site, blinded validation study. 
 Nature Medicine.
@@ -191,7 +227,13 @@ BMC Genomics.
 The Cancer Genome Atlas Research Network. Comprehensive genomic characterization defines human glioblastoma genes and core pathways. 
 Nature.
 
-2007
+<div id="up-to-top" class="row">
+  <div class="small-12 columns" style="text-align: right;">
+    <a style="text-align: right;" href="#top-of-page" title="Top of the page" alt="Top of the page"><i class="fa fa-chevron-circle-up fa-2x"></i></a>
+  </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+#### 2007
 
 Wouters, BJ, Jorda, MA, Keeshan, K, et al. Distinct gene expression profiles of acute myeloid/T-lymphoid leukemia with silenced CEBPA and mutations in NOTCH1. 
 Blood.
@@ -205,7 +247,7 @@ Journal of Clinical Investigation.
 Bakker, WJ, van Dijk, TB, Parren-van Amelsvoort, M, et al. Differential regulation of Foxo3a target genes in erythropoiesis. 
 Molecular Cellular Biology.
 
-2006
+#### 2006
 
 Verhaak, RG, Sanders, MA, Bijl, MA, et al. HeatMapper: powerful combined visualization of gene expression profile correlations, genotypes, phenotypes and sample characteristics. 
 BMC Bioinformatics.
@@ -219,13 +261,14 @@ BMC Bioinformatics.
 Steidl U, Rosenbauer F, Verhaak RG, et al. Essential role of Jun family transcription factors in PU.1 knockdown-induced leukemic stem cells. 
 Nature Genetics.
 
-2005
+#### 2005
 
 Verhaak RG, Goudswaard CS, van Putten W, et al.. Mutations in nucleophosmin (NPM1) in acute myeloid leukemia (AML): association with other gene abnormalities and previously established gene expression signatures and their favorable prognostic significance. 
 Blood
 
-2004
+#### 2004
 
 Valk PJ, Verhaak RG, Beijen MA, et al. Prognostically useful gene-expression profiles in acute myeloid leukemia. 
 New England Journal of Medicine.
+
 

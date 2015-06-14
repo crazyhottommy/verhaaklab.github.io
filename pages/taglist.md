@@ -1,12 +1,12 @@
 ---
 layout: tag_index
 title: "tag index"
-subheadline: "Why another Jekyll Theme?"
+#subheadline: "Why another Jekyll Theme?"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+#teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
 permalink: "/taglist/"
 header:
-    image_fullwidth: "header_drop.jpg"
+#    image_fullwidth: "header_drop.jpg"
 ---
 
 <h2 class="post_title">{{page.title}}</h2>

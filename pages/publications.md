@@ -10,7 +10,14 @@ comments: false
 show_meta: false
 ---
 
-### Selected Publications:
+<div class="panel radius" markdown="1">
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
+#### Selected Publications:
+<br>
 
 *   Kim H, Zheng S, .., Verhaak RG. Whole-genome and multisector exome sequencing of primary and post-treatment glioblastoma reveals patterns of tumor evolution. Genome Res. 2015. Abstract
  
@@ -32,8 +39,10 @@ show_meta: false
 
 *   Valk PJ, Verhaak RG, Beijen MA, et al. Prognostically useful gene-expression profiles in acute myeloid leukemia. New England Journal of Medicine; 2004. Abstract
 
-[See paper citations on Google Scholar](http://scholar.google.com/citations?user=qXdBk-gAAAAJ&hl=en)
+***
 
-[Full publication list]({{ site.url }}/all_publications/)
+#### [Full publication list since 2004]({{ site.url }}/all_publications/)
 
-[PubMed Listing](http://www.ncbi.nlm.nih.gov/pubmed?term=verhaak+r)
+#### [Citations at Google Scholar](http://scholar.google.com/citations?user=qXdBk-gAAAAJ&hl=en)
+
+#### [PubMed Listing](http://www.ncbi.nlm.nih.gov/pubmed?term=verhaak+r)

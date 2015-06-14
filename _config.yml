@@ -1,5 +1,5 @@
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
-# v 0.9.1 | 06-15 | @roelverhaak
+# v 0.9.2 | 06-15 | @roelverhaak
 #      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
 #     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
@@ -21,7 +21,8 @@ description: "Verhaak Lab's research focus is the analysis of cancer genomics da
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://verhaaklab.github.io"
+#url: "http://verhaaklab.github.io"
+url: "http://localhost:4000"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -35,8 +36,8 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://verhaaklab.github.io/images/"
-
+#urlimg: "http://verhaaklab.github.io/images/"
+urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -197,7 +198,7 @@ msapplication_tilecolor:                "#fabb00"
 #
 # used in _includes/comments.html
 
-disqus_shortname: sbamin
+disqus_shortname: verhaaklab
 
 
 #      _____                
@@ -221,5 +222,5 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-google_analytics_tracking_id: UA-307297-1
+google_analytics_tracking_id: UA-64053990-1
 
