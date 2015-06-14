@@ -62,7 +62,7 @@ We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](
 <br>
 
 <ul class="small-block-grid-2">
-<li><a href="http://gsbs.uth.edu"><img alt="The University of Texas Graduate School of Biomedical Sciences at Houston" title="The University of Texas Graduate School of Biomedical Sciences at Houston" src="http://localhost:4000/images/logos/utgsbs_logo.png"></a></li>
-<li><a href="http://bcm.edu/scbmb"><img alt="Affiliated with SCBMB Graduate Program at Baylor College of Medicine" title="Affiliated with SCBMB Graduate Program at Baylor College of Medicine" src="http://localhost:4000/images/logos/scbmb_bcm_logo.png"></a></li>
+<li><a href="http://gsbs.uth.edu"><img alt="The University of Texas Graduate School of Biomedical Sciences at Houston" title="The University of Texas Graduate School of Biomedical Sciences at Houston" src="{{ site.url }}/images/logos/utgsbs_logo.png"></a></li>
+<li><a href="http://bcm.edu/scbmb"><img alt="Affiliated with SCBMB Graduate Program at Baylor College of Medicine" title="Affiliated with SCBMB Graduate Program at Baylor College of Medicine" src="{{ site.url }}/images/logos/scbmb_bcm_logo.png"></a></li>
 </ul>
 
