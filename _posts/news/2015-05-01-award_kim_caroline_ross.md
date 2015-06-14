@@ -3,7 +3,7 @@ layout: page
 title: "Congratulations to Kim Hoon!"
 teaser: "On being awarded 2015 Caroline Ross Endowed Fellowship"
 categories:
-    - news
+    - award
 tags:
     - people
     - news
