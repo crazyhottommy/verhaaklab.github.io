@@ -9,7 +9,7 @@ tags:
     - news
     - awards
 date: 2013-03-10T10:14:27-05:00
-comments: false
+comments: true
 show_meta: true
 ---
 
