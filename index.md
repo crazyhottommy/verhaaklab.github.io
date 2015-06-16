@@ -4,9 +4,10 @@ title: ""
 subheadline: ""
 #teaser: "Verhaak Lab at the UT MD Anderson Cancer Center"
 categories:
-    - design
+    - home
 tags:
-    - design
+    - home
+    - landing
 #header:
 #    title:
 #    background-color: "#EFC94C;"

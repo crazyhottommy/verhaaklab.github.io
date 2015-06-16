@@ -145,11 +145,20 @@ img.lazy {
     opacity: 1;
 }
 
+/* Twitter box layout
+------------------------------------------------------------------- */
+
 .mytweets iframe {
     width: 100%;
 }
+
+/* No underline for image with links
+------------------------------------------------------------------- */
 
 .image-link
 {
   text-decoration: none;
 }
+
+/* Photo gallery with sliding caption
+------------------------------------------------------------------- */
