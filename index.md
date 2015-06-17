@@ -20,8 +20,9 @@ tags:
 
 >This is a beta and unofficial version for a potential new look of our lab website. For current and most up-to-date version, please visit official website, **[http://odin.mdacc.tmc.edu/~rverhaak](http://odin.mdacc.tmc.edu/~rverhaak)**
 
-We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](http://www.mdanderson.org), Houston, TX. Our lab is affiliated with Department of Genomic Medicine and [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) at the MD Anderson Cancer Center.
+We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](http://www.mdanderson.org), Houston, TX. Our lab is affiliated with [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) and [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) at the MD Anderson Cancer Center.  
 
+Our research focus is in the analysis of cancer genomics data to improve our understanding of cancer biology. We have a specialized research interest in understanding of origin and progression of brain tumors, *glioblastoma and glioma* and thus, advancing colloborative efforts in discovery of risk predictive & prognostic genomic biomarkers as well as therapuetic targets.
 
 ### <center><i class="fa fa-info-circle fa-1.9x"></i> Recent News</center>
 

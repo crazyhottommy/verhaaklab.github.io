@@ -1,4 +1,4 @@
-    ---
+---
 layout: page
 show_meta: false
 title: "Style your content!"
