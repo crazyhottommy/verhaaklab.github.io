@@ -160,5 +160,45 @@ img.lazy {
   text-decoration: none;
 }
 
-/* Photo gallery with sliding caption
+/* tag box from So Simple Theme by Michael Rose.
 ------------------------------------------------------------------- */
+
+.tag-box{list-style:none;margin:0;padding:4px 0;overflow:hidden}.tag-box:after{content:"";display:table;clear:both}.tag-box.inline li{float:left;font-size:14px;font-size:0.875rem;line-height:1.71429;margin-bottom:24px;margin-bottom:1.5rem;line-height:2.5}.tag-box a{padding:4px 6px;margin:2px;background-color:#e6e6e6;border-radius:4px;text-decoration:none}.tag-box a span{vertical-align:super;font-size:10px;font-size:0.625rem;line-height:2.4;margin-bottom:24px;margin-bottom:1.5rem}
+
+
+.post-list{margin:0;padding:0;list-style-type:none}.post-list li{padding:8px 0;border-bottom:1px solid #ccc;border-bottom:1px solid rgba(0,0,0,0.1);font-size:18px;font-size:1.125rem;line-height:1.33333;margin-bottom:0}.post-list li:after{content:"";display:table;clear:both}.post-list li>a{border-bottom-width:0}.post-list a>span{float:right}.post-list .entry-date{font-size:14px;font-size:0.875rem;line-height:1.71429;margin-bottom:0;text-transform:uppercase;display:none}@media screen and (min-width: 48em){.post-list .entry-date{display:inline}}.post-list .excerpt{display:block;float:none;font-size:14px;font-size:0.875rem;line-height:1.14286;margin-bottom:0}@media screen and (min-width: 48em){.post-list .excerpt{width:70%}}@media screen and (min-width: 62.5em){.post-list .excerpt{width:60%}}
+
+/* tag box from Uber blog by Tobias Sjösten
+------------------------------------------------------------------- */
+
+.tags-ts {
+  list-style: none;
+  padding: 0;
+  text-align: justify; }
+
+.tags-ts li {
+  display: inline-block;
+  margin: 0 25px 25px 0; }
+
+.tags-ts li:last-child {
+  margin-right: 0; }
+
+.tag-ts {
+  background: #ddd;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  box-shadow: 1px 1px 2px #ccc;
+  -moz-box-shadow: 1px 1px 2px #ccc;
+  -webkit-box-shadow: 1px 1px 2px #ccc;
+  color: #888;
+  padding: 2px 8px 2px 8px;
+  text-decoration: none; }
+
+.tag-ts:visited {
+  color: #888; }
+
+.tag-ts:hover {
+  background: #ccc;
+  color: #777; }
+
