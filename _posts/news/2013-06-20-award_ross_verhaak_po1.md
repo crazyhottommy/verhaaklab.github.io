@@ -3,12 +3,14 @@ layout: page
 title: "Approval of NIH PO1"
 teaser: "Under Project PI Brian Ross, PhD of University of Michigan"
 categories:
-    - news
+    - award
 tags:
-    - people
+    - members
     - news
     - awards
     - grants
+    - nih
+    - gbm
 date: 2013-06-20T10:14:27-05:00
 comments: true
 show_meta: true

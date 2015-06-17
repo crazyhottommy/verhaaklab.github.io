@@ -3,12 +3,14 @@ layout: page
 title: "CPRIT Individual Investigator Research Award"
 teaser: "For our project on glioblastoma"
 categories:
-    - news
+    - award
 tags:
-    - people
+    - members
     - news
     - awards
     - CPRIT
+    - grants
+    - gbm
 date: 2014-08-24T10:14:27-05:00
 comments: true
 show_meta: true

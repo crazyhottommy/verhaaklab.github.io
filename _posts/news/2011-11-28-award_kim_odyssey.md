@@ -3,11 +3,14 @@ layout: page
 title: "Congratulations to Kim Hoon!"
 teaser: "On being awarded Odyssey Fellowship"
 categories:
-    - news
+    - award
 tags:
-    - people
+    - members
     - news
     - awards
+    - fellowship
+    - postdocs
+    - ovca
 date: 2011-11-28T10:14:27-05:00
 comments: true
 show_meta: true

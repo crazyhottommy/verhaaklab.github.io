@@ -3,11 +3,14 @@ layout: page
 title: "Approval of NIH RO1"
 teaser: "Roel wins NIH RO1 under <i>NCI Provocative Questions</i>"
 categories:
-    - awards
+    - award
 tags:
     - news
+    - members
     - awards
     - grants
+    - nih
+    - gbm
 date: 2014-10-07
 comments: true
 show_meta: true

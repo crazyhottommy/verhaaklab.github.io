@@ -3,11 +3,14 @@ layout: page
 title: "Congratulations to Kim Hoon!"
 teaser: "On being awarded 2015 Caroline Ross Endowed Fellowship"
 categories:
-    - news
+    - award
 tags:
-    - people
+    - postdocs
+    - members
     - news
     - awards
+    - gbm
+    - evolution
 date: 2015-01-05T10:14:27-05:00
 comments: true
 show_meta: true
