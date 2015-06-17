@@ -121,7 +121,7 @@ permalink: "/people/"
   <div class="ch-item ch-img-sbamin">
     <div class="ch-info">
       <h3>Samir B. Amin, MBBS</h3>
-      <p>06/2015 BCM SCBMB <a href="{{ site.url }}/people/s_amin/">About</a></p>
+      <p>06/2015 SCBMB Program, Baylor College of Medicine <a href="{{ site.url }}/people/s_amin/">About</a></p>
     </div>
   </div>
   </li>
