@@ -1,21 +1,35 @@
 ---
-layout: page
+layout: page-people
 title: "About Roel Verhaak"
 subheadline: ""
+comments: false
 show_meta: false
 teaser: ""
 permalink: "/about/"
 header:
     image_fullwidth: "res/gbmsubtypes.png"
+breadcrumb: true
 ---
 
-Since 2010, Roel Verhaak is an Assistant Professor in the Department of Bioinformatics and Computational Biology and the Department of Genomic Medicine at the University of Texas MD Anderson Cancer Center, in Houston, Texas. He lives in Bellaire with his wife Allison and their twin boys, Benjamin and Olivier. 
+<ul class="ch-grid">
+  <li>
+    <div class="ch-item ch-img-rverhaak">
+      <div class="ch-info">
+        <h3>Roel Verhaak, PhD</h3>
+        <p>PI <a href="https://twitter.com/roelverhaak">@roelverhaak</a></p>
+      </div>
+    </div>
+  </li>
+</ul>
+
+Since 2010, Roel Verhaak is an Associate Professor in the [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) and the [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) at the [University of Texas MD Anderson Cancer Center](http://www.mdanderson.org), in Houston, Texas. He has recenly took an adjunct faculty position in [SCBMB graduate program at Baylor College of Medicine](http://bcm.edu/scbmb). He lives in Bellaire with his wife Allison and their twin boys, Benjamin and Olivier. 
 
 ### Previously
 
-Before joining the faculty of MD Anderson, he was a postdoctoral fellow in the lab of Dr. Matthew Meyerson at the Broad Institute of Harvard and MIT, and the Dana-Farber Cancer Institute. 
-At the Broad/Dana-Farber, he concentrated on the integration of genomic and transcriptomic data to better understand diseases such as glioblastoma, lung cancer and ovarian cancer. Much of his work was related to The Cancer Genome Atlas. Most notably, he led a study in which transcriptional subtypes of glioblastoma were proposed. During his postdoc, Roel was supported by a Fellowship from the Dutch Cancer Foundation KWF.
+Before joining the faculty of MD Anderson, he was a postdoctoral fellow in the [lab of Dr. Matthew Meyerson](http://research4.dfci.harvard.edu/meyersonlab) at the [Broad Institute of Harvard and MIT](http://www.broadinstitute.org), and the [Dana-Farber Cancer Institute](http://www.dfci.harvard.edu), Boston, MA.
+
+At the Broad/Dana-Farber, he concentrated on the integration of genomic and transcriptomic data to better understand diseases such as glioblastoma, lung cancer and ovarian cancer. Much of his work was related to [The Cancer Genome Atlas](http://cancergenome.nih.gov). Most notably, he led [a study](http://www.ncbi.nlm.nih.gov/pubmed/20129251 "Verhaak RG et al. Cancer Cell 2010") in which transcriptional subtypes of glioblastoma were proposed. During his postdoc, Roel was supported by a Fellowship from the [Dutch Cancer Foundation KWF](http://www.kwfkankerbestrijding.nl).
 
 ### Before that
 
-In 2006, Roel received his doctoral degree for his thesis titled "Gene expression profiling of acute myeloid leukemia.", working with Dr. Peter Valk and Prof. Dr. Bob Löwenberg at the Erasmus University Medical Center in Rotterdam, the Netherlands. His thesis is available online. Prior to completing his PhD, Roel earned his MSc in Medical Sciences from the Radboud University in Nijmegen, the Netherlands. His program included a number of courses in computer science. This led him to do his first stint in bioinformatics, with Dalicon BV.
+In 2006, Roel received his doctoral degree for his thesis titled "Gene expression profiling of acute myeloid leukemia.", working with Dr. Peter Valk and Prof. Dr. Bob Löwenberg at the [Erasmus University Medical Center](http://www.erasmusmc.nl) in Rotterdam, the Netherlands. His thesis is available [online](http://www.virtuon.nl/thesis/). Prior to completing his PhD, Roel earned his MSc in Medical Sciences from the Radboud University in Nijmegen, the Netherlands. His program included a number of courses in computer science. This led him to do his first stint in bioinformatics, with Dalicon BV.
