@@ -10,7 +10,7 @@ comments: false
 show_meta: false
 ---
 
-#### <i class="fa fa-search"></i> [Looking for available positions]({{ site.url }}/positions) <i class="fa fa-users"></i>
+#### <i class="fa fa-search"></i> [Looking for available positions ?]({{ site.url }}/positions) <i class="fa fa-users"></i>
 
 ## Tools:
 

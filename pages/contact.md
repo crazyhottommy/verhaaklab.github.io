@@ -3,10 +3,11 @@ layout: page
 title: "Contact"
 sidebar: right
 meta_title: "Contact Roel Verhaak Lab"
-show_meta: false
 #subheadline: ""
 #teaser: ""
 permalink: "/contact/"
+comments: true
+show_meta: false
 ---
 
 <i class="fa fa-envelope fa-2x" title="Mailing Address" alt="Mailing Address"></i>

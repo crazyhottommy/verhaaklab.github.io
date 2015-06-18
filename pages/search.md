@@ -1,8 +1,9 @@
 ---
 layout: page
-show_meta: false
 title: "Search"
 permalink: "/search/"
+comments: false
+show_meta: false
 ---
 
 {% include google_search.html %}
