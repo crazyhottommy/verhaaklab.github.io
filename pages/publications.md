@@ -16,9 +16,28 @@ show_meta: false
 {:toc}
 </div>
 
-#### Selected Publications:
-<br>
+#### Recent Publications:
 
+<div id="blog-index" class="row">
+  <div class="small-12 columns t30">
+    <dl class="accordion" data-accordion>
+      {% assign counter = 1 %}
+      {% for post in site.categories.publication limit:5 %}
+      <dd class="accordion-navigation">
+      <a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.date %}<time class="icon-calendar pr20" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time> {% endif %}<strong>{{ post.title }}</strong></a>
+        <div id="panel{{ counter }}" class="content">
+          {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+          <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+        </div>
+      </dd>
+      {% assign counter=counter | plus:1 %}
+      {% endfor %}
+    </dl>
+  </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+#### Selected Publications:
+***
 *   Kim H, Zheng S, .., Verhaak RG. Whole-genome and multisector exome sequencing of primary and post-treatment glioblastoma reveals patterns of tumor evolution. Genome Res. 2015. Abstract
  
 *   Zheng S, Kim H, Verhaak RG. Silent mutations make some noise. Cell; 2014. Abstract

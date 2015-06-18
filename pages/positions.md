@@ -40,4 +40,5 @@ For graduate research training, we are primarily affiliated with [Department of 
   </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 <br>
-[Archived posts with tag: *positions*]({{ site.url }}/tags/#positions) 
+
+### [Archived posts with tag: *positions*]({{ site.url }}/tags/#positions) 

@@ -3,6 +3,8 @@ layout: page
 title: "Tags"
 teaser: "Browse website by keywords"
 permalink: "/tags/"
+comments: false
+show_meta: false
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}

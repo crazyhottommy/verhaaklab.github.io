@@ -6,9 +6,11 @@ categories:
     - people
 tags:
     - members
-    - people
+    - team
     - staff
 permalink: "/people/"
+comments: false
+show_meta: false
 ---
 
 ### Principal Investigator
@@ -31,7 +33,7 @@ permalink: "/people/"
     <div class="ch-item ch-img-admin1">
       <div class="ch-info">
         <h3>Shannon Hurst</h3>
-        <p>South Campus <a href="{{ site.url }}/people/admin1/">Contact</a></p>
+        <p>South Campus <a href="{{ site.url }}/contact/">Contact</a></p>
       </div>
     </div>
   </li>
@@ -39,7 +41,7 @@ permalink: "/people/"
     <div class="ch-item ch-img-admin2">
       <div class="ch-info">
         <h3>Teresa Gonzales</h3>
-        <p>BCB - Pickens Tower <a href="{{ site.url }}/people/admin2/">Contact</a></p>
+        <p>BCB - Pickens Tower <a href="{{ site.url }}/contact/">Contact</a></p>
       </div>
     </div>
   </li> 
