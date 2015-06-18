@@ -22,6 +22,11 @@
 - title: RESOURCES
   url: "/resources/"
   side: left
+  dropdown:
+  - title: Education
+    url: "/education/"
+  - title: Tools
+    url: "/resources/"        
 
 - title: News
   url: "/blog/"
@@ -39,3 +44,6 @@
 - title: "Contact"
   url: "/contact/"
   side: left
+  dropdown:
+  - title: Positions
+    url: "/positions/"
