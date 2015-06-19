@@ -33,12 +33,13 @@ description: "Verhaak Lab's research focus is the analysis of cancer genomics da
 # This URL is the main adresse. Don't include a slash at the end.
 #
 #url: "http://verhaaklab.github.io"
+#url: "http://odin.mdacc.tmc.edu/~rverhaak/beta"
 url: "http://localhost:4000"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-#improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 improve_content:
 
 # This URL points directly to the images directory making
@@ -47,7 +48,10 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
+# Unlike url: path above, urlimg path must include trailing backslash.
+#
 #urlimg: "http://verhaaklab.github.io/images/"
+#urlimg: "http://odin.mdacc.tmc.edu/~rverhaak/beta/images/"
 urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
