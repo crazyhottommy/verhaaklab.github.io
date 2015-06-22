@@ -18,6 +18,8 @@
     url: "/about/"
   - title: Lab Members
     url: "/people/"    
+  - title: Photos
+    url: "/people/gallery"    
 
 - title: RESOURCES
   url: "/resources/"
