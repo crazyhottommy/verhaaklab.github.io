@@ -7,8 +7,9 @@ show_meta: false
 teaser: ""
 permalink: "/about/"
 header:
-    image_fullwidth: "res/gbmsubtypes.png"
-breadcrumb: true
+    image_fullwidth: "publpics/gbmsubtypes_header.png"
+    caption: Verhaak RG et al. Cancer Cell 2010
+breadcrumb: false
 ---
 
 <ul class="ch-grid">
