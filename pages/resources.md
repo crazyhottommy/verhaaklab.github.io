@@ -10,9 +10,11 @@ comments: false
 show_meta: false
 ---
 
-#### <i class="fa fa-search"></i> [Looking for available positions ?]({{ site.url }}/positions) <i class="fa fa-users"></i>
+#### <i class="fa fa-users"></i> [Looking for available positions ?]({{ site.url }}/positions)
 
-## Tools:
+
+## <i class="fa fa-cubes"></i> Tools:
+***
 
 ### [PRADA](http://bioinformatics.mdanderson.org/main/PRADA:Overview)
 
@@ -20,13 +22,23 @@ Massively parallel sequencing of cDNA reverse transcribed from RNA (RNASeq) prov
 
 >Publication: Torres-Garcia W, Zheng S, .., Verhaak RG. PRADA: pipeline for RNA sequencing data analysis. *Bioinformatics* 2014. PMID: [24695405](http://www.ncbi.nlm.nih.gov/pubmed/24695405)
 
-## Database:
+### [ESTIMATE](http://bioinformatics.mdanderson.org/main/ESTIMATE:Overview)
+
+ESTIMATE (Estimation of STromal and Immune cells in MAlignant Tumor tissues using Expression data) is a tool for predicting tumor purity, and the presence of infiltrating stromal/immune cells in tumor tissues using gene expression data. ESTIMATE algorithm is based on single sample Gene Set Enrichment Analysis and generates three scores:
+
+1. Stromal score (that captures the presence of stroma in tumor tissue)
+2. Immune score (that represents the infiltration of immune cells in tumor tissue), and 
+3. Estimate score (that infers tumor purity). 
+
+The [website](http://ibl.mdanderson.org/estimate/) presents the scores for all TCGA tumor types.
+
+>Publication: Yoshihara K, Shahmoradgoli M, Martínez E, Vegesna R, Kim H, Torres-Garcia W, Treviño V, Shen H, Laird PW, Levine DA, Carter SL, Getz G,   Stemke-Hale K,  Mills GB, Verhaak R. Inferring tumour purity and stromal and immune cell admixture from expression data. *Nature Communications* 2013. PMID: [2411377](http://www.ncbi.nlm.nih.gov/pubmed/24113773)
+
+## <i class="fa fa-database"></i> Database:
+***
 
 ### [TumorFusions](http://tumorfusions.org)
 
 Transcripts fusion as a result of genomic rearrangement is an important class of somatic alteration, as a cancer initiating event and as a molecular therapeutic target for specific tumors. Our Pipeline for RNA sequencing Data Analysis (PRADA) enables us to detect fusion transcripts with high confidence comprehensively. Based on integrated analysis of paired-end RNA sequencing and DNA copy number data from The Cancer Genome Atlas(TCGA), TCGA Fusion Gene Data Portal provides a bona-fide fusion list across many tumor types.
 
 >Publication: Yoshihara, K. Wang Q, .., Verhaak RG. The landscape and therapeutic relevance of cancer-associated transcript fusions. Oncogene. 2014. PMID: [25500544](http://www.ncbi.nlm.nih.gov/pubmed/25500544)
-
-
-
