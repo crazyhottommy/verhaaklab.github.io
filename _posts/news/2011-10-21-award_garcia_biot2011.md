@@ -4,6 +4,7 @@ title: "Congratulations to Wandaliz T. Garcia!"
 teaser: "For the best poster at the BIOT-2011 conference"
 categories:
     - award
+    - conference
 tags:
     - members
     - news
@@ -12,6 +13,7 @@ tags:
     - postdocs
     - kirc
     - fusion
+    - wt_garcia
 date: 2011-10-21T10:14:27-05:00
 comments: true
 show_meta: true

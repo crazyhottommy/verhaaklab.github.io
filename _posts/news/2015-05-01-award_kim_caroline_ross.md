@@ -11,6 +11,7 @@ tags:
     - awards
     - gbm
     - evolution
+    - k_hoon
 date: 2015-01-05T10:14:27-05:00
 comments: true
 show_meta: true

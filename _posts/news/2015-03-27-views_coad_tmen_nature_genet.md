@@ -12,6 +12,8 @@ tags:
     - members
     - coad
     - tmen
+    - k_hoon
+    - r_verhaak
 date: 2015-03-27T13:03:40-05:00
 comments: true
 show_meta: true

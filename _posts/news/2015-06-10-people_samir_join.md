@@ -9,6 +9,7 @@ tags:
     - news
     - students
     - newcomers
+    - s_amin
 date: 2015-06-10
 comments: true
 show_meta: true

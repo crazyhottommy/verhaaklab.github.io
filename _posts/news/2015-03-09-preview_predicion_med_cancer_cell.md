@@ -12,7 +12,8 @@ tags:
     - members
     - precision_medicine
     - tmen
-date: 2015-03-09T13:03:40-05:00
+    - e_martinez
+date: 2015-03-09
 comments: true
 show_meta: true
 ---

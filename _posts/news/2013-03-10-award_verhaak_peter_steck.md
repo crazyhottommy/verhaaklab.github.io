@@ -9,6 +9,7 @@ tags:
     - news
     - awards
     - gbm
+    - r_verhaak
 date: 2013-03-10T10:14:27-05:00
 comments: true
 show_meta: true
