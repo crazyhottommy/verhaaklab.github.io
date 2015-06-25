@@ -28,3 +28,15 @@ show_meta: false
 <br>
 
 ### [Archived posts with tag: *awards*]({{ site.url }}/tags/#awards) 
+
+### Other Categories:
+
+<ul class="tags-ts">
+    {% for category in site.categories | sort %}
+        <li style="font-size:{{ category | last | size | times: 100 | divided_by: site.categories.size | plus: 80 }}%">
+            <a class="tag-ts" href="/{{ category | first | slugize }}/">
+                {{ category | first }}
+            </a>
+        </li>
+    {% endfor %}
+</ul>
