@@ -22,7 +22,6 @@ description: "Verhaak Lab's research focus is the analysis of cancer genomics da
 # This URL is the main adresse. Don't include a slash at the end.
 #
 url: "http://verhaaklab.github.io"
-#url: "http://localhost:4000"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -37,7 +36,6 @@ improve_content:
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 urlimg: "http://verhaaklab.github.io/images/"
-#urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
