@@ -3,11 +3,12 @@ layout: page
 title: "2011 Wilson S. Stone Memorial Award"
 teaser: "Awarded to Roel Verhaak"
 categories:
-    - news
+    - award
 tags:
     - people
     - news
     - awards
+    - r_verhaak
 date: 2011-06-06
 comments: true
 show_meta: true

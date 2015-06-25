@@ -5,7 +5,7 @@ title: "Publications"
 #teaser: "The documentation is a work in progress..."
 permalink: "/publications/"
 header:
-#   image_fullwidth: "header_roadmap_2.jpg"
+#   image_fullwidth: "publpics/wordle_verhaak.png"
 comments: false
 show_meta: false
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Awards"
-teaser: "Grants, Fellowships, Conference Posters & Presentations, etc."
+title: "Meetings & Conferences"
+teaser: "Posters & Oral Presentations by Lab Members"
 #header:
 #   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/award/"
+permalink: "/conference/"
 comments: false
 show_meta: false
 ---
@@ -12,7 +12,7 @@ show_meta: false
   <div class="small-12 columns t30">
     <dl class="accordion" data-accordion>
       {% assign counter = 1 %}
-      {% for post in site.categories.award limit:50 %}
+      {% for post in site.categories.conference limit:50 %}
       <dd class="accordion-navigation">
       <a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.date %}<time class="icon-calendar pr20" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time> {% endif %}<strong>{{ post.title }}</strong></a>
         <div id="panel{{ counter }}" class="content">
@@ -27,4 +27,4 @@ show_meta: false
 </div><!-- /.row -->
 <br>
 
-### [Archived posts with tag: *awards*]({{ site.url }}/tags/#awards) 
+### [Archived posts with tag: *meetings*]({{ site.url }}/tags/#meetings) 
