@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Postdoc position in Verhaak Lab"
-teaser: "Join us!"
+title: "Finalist for the Robert M. Chamberlain Distinguished Mentor Award"
+teaser: "We've open postdoc position. Join us!"
 categories:
     - news
 tags:
@@ -9,8 +9,8 @@ tags:
     - news
     - awards
     - postdocs
-    - r_verhaak
     - positions
+    - r_verhaak
 date: 2015-01-21
 comments: true
 show_meta: true
