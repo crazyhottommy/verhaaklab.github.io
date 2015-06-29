@@ -1,5 +1,5 @@
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
-# v 0.9.2 | 06-15 | @roelverhaak
+# v 0.9.3 | 06-15 | @roelverhaak
 #      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
 #     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
@@ -22,6 +22,7 @@ description: "Verhaak Lab's research focus is the analysis of cancer genomics da
 # This URL is the main adresse. Don't include a slash at the end.
 #
 url: "http://verhaaklab.github.io"
+#url: "http://odin.mdacc.tmc.edu/~rverhaak"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -35,7 +36,10 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
+# Here, include back slash at the end.
+#
 urlimg: "http://verhaaklab.github.io/images/"
+#urlimg: "http://odin.mdacc.tmc.edu/~rverhaak/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
