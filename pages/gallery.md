@@ -15,13 +15,26 @@ permalink: "/people/gallery/"
 comments: false
 show_meta: false
 breadcrumb: true
+images:
+#    - /publpics/wordle_verhaak.png
+#    - /publpics/gbmsubtypes.png
 ---
 
+<ul class="clearing-thumbs small-block-grid-3" data-clearing>
+{% for image in page.images %}
+  <li><a href="{{ site.urlimg }}{{ image }}"><img  data-caption="1" class="th" src="{{ site.urlimg }}{{ image }}"></a></li>
+{% endfor %}
+</ul>
 
-<div style="width:800px;font-family:arial,sans-serif;font-size:13px;"><div><embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="800" height="533" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115227597279155387975%2Falbumid%2F6163090020707159873%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCNnBoI3U4ba_DQ%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></div><span style="float:left;"><a href="https://picasaweb.google.com/115227597279155387975/GroupPhotos?authuser=0&authkey=Gv1sRgCNnBoI3U4ba_DQ&feat=flashalbum" style="color:#3964c2">View all</a></span></div>
+***
 
+<ul class="clearing-thumbs small-block-grid-3" data-clearing>
+  <li><a href="{{ site.urlimg }}/retreat/verhaaklab-20130617.jpg"><img  data-caption="June-2013" class="th" src="{{ site.urlimg }}/retreat/verhaaklab-20130617.jpg"></a></li>
+  <li><a href="{{ site.urlimg }}/retreat/groupphoto.201205.png"><img  data-caption="May-2012" class="th" src="{{ site.urlimg }}/retreat/groupphoto.201204.png"></a></li>
+  <li><a href="{{ site.urlimg }}/retreat/groupphoto.201205.png"><img  data-caption="April-2012" class="th" src="{{ site.urlimg }}/retreat/groupphoto.201204.png"></a></li>
+</ul>
 
-
+#### [Picasa Gallery](http://bit.ly/verhaklab_pics)
 
 
 
