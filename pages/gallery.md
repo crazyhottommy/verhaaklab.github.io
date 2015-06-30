@@ -30,7 +30,7 @@ images:
 
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
   <li><a href="{{ site.urlimg }}/retreat/verhaaklab-20130617.jpg"><img  data-caption="June-2013" class="th" src="{{ site.urlimg }}/retreat/verhaaklab-20130617.jpg"></a></li>
-  <li><a href="{{ site.urlimg }}/retreat/groupphoto.201205.png"><img  data-caption="May-2012" class="th" src="{{ site.urlimg }}/retreat/groupphoto.201204.png"></a></li>
+  <li><a href="{{ site.urlimg }}/retreat/groupphoto.201205.png"><img  data-caption="May-2012" class="th" src="{{ site.urlimg }}/retreat/groupphoto.201205.png"></a></li>
   <li><a href="{{ site.urlimg }}/retreat/groupphoto.201204.png"><img  data-caption="April-2012" class="th" src="{{ site.urlimg }}/retreat/groupphoto.201204.png"></a></li>
 </ul>
 
