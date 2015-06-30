@@ -26,8 +26,7 @@ Today, we report in journal *Cancer Cell* four distinct subtypes of GBM based on
 
 >Evans C. The Cancer Genome Atlas Identifies Distinct Subtypes of Deadly Brain Cancer That May Lead to New Treatment Strategies. *The Cancer Genome Atlas, NCI, NHGRI, NIH* [Jan 19, 2010](http://cancergenome.nih.gov/newsevents/newsannouncements/glioblastoma4subtypes)
 
-<div class="show-for-large-up">
-    <div class="row">
-      <img src="{{ site.url }}/images/publpics/gbmsubtypes.png" alt="Four subtypes of GBM" title="Four subtypes of GBM">
-    </div>
-</div>
+<ul class="small-block-grid-1">
+<li><a href="{{ site.url }}/publication/paper_gbm_subtypes_cancer_cell/"><img alt="GBM Subtypes; Verhaak RG, Hoadley KA, et al. Cancer Cell 2010" title="GBM Subtypes; Verhaak RG, Hoadley KA, et al. Cancer Cell 2010" src="{{ site.url }}/images/publpics/gbmsubtypes_header.png"></a></li>
+</ul>
+

@@ -7,8 +7,8 @@ show_meta: false
 teaser: ""
 permalink: "/about/"
 header:
-    image_fullwidth: "publpics/gbmsubtypes_header.png"
-    caption: Verhaak RG et al. Cancer Cell 2010
+#    image_fullwidth: "publpics/gbmsubtypes_header.png"
+#    caption: Verhaak RG et al. Cancer Cell 2010
 breadcrumb: false
 ---
 
@@ -29,7 +29,11 @@ Since 2010, Roel Verhaak is an Associate Professor in the [Department of Bioinfo
 
 Before joining the faculty of MD Anderson, he was a postdoctoral fellow in the [lab of Dr. Matthew Meyerson](http://research4.dfci.harvard.edu/meyersonlab) at the [Broad Institute of Harvard and MIT](http://www.broadinstitute.org), and the [Dana-Farber Cancer Institute](http://www.dfci.harvard.edu), Boston, MA.
 
-At the Broad/Dana-Farber, he concentrated on the integration of genomic and transcriptomic data to better understand diseases such as glioblastoma, lung cancer and ovarian cancer. Much of his work was related to [The Cancer Genome Atlas](http://cancergenome.nih.gov). Most notably, he led [a study](http://www.ncbi.nlm.nih.gov/pubmed/20129251 "Verhaak RG et al. Cancer Cell 2010") in which transcriptional subtypes of glioblastoma were proposed. During his postdoc, Roel was supported by a Fellowship from the [Dutch Cancer Foundation KWF](http://www.kwfkankerbestrijding.nl).
+At the Broad/Dana-Farber, he concentrated on the integration of genomic and transcriptomic data to better understand diseases such as glioblastoma, lung cancer and ovarian cancer. Much of his work was related to [The Cancer Genome Atlas](http://cancergenome.nih.gov). Most notably, he led [a study]({{ site.url }}/publication/paper_gbm_subtypes_cancer_cell/ "Verhaak RG, Hoadley KA, et al. Cancer Cell 2010") in which transcriptional subtypes of glioblastoma were proposed. During his postdoc, Roel was supported by a Fellowship from the [Dutch Cancer Foundation KWF](http://www.kwfkankerbestrijding.nl).
+
+<ul class="small-block-grid-1">
+<li><a href="{{ site.url }}/publication/paper_gbm_subtypes_cancer_cell/"><img alt="GBM Subtypes; Verhaak RG, Hoadley KA, et al. Cancer Cell 2010" title="GBM Subtypes; Verhaak RG, Hoadley KA, et al. Cancer Cell 2010" src="{{ site.url }}/images/publpics/gbmsubtypes_header.png"></a></li>
+</ul>
 
 ### Before that
 
