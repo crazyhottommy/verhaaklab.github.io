@@ -53,8 +53,9 @@ Our research focus is in the analysis of cancer genomics data to improve our und
   height="250"
   href="https://twitter.com/RoelVerhaak"
   data-widget-id="609868819989815296"
-  data-chrome="nofooter noborders transparent">
-</a></a>
+  data-tweet-limit="3"
+  data-chrome="nofooter noborders noscrollbar transparent">
+  Recent Tweets</a>
 </div>
 <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");

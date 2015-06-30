@@ -34,3 +34,7 @@ At the Broad/Dana-Farber, he concentrated on the integration of genomic and tran
 ### Before that
 
 In 2006, Roel received his doctoral degree for his thesis titled "Gene expression profiling of acute myeloid leukemia.", working with Dr. Peter Valk and Prof. Dr. Bob Löwenberg at the [Erasmus University Medical Center](http://www.erasmusmc.nl) in Rotterdam, the Netherlands. His thesis is available [online](http://www.virtuon.nl/thesis/). Prior to completing his PhD, Roel earned his MSc in Medical Sciences from the Radboud University in Nijmegen, the Netherlands. His program included a number of courses in computer science. This led him to do his first stint in bioinformatics, with Dalicon BV.
+
+
+<a class="list-group-item" href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="{{ site.url }}/feed.xml" title="Updates via RSS feed" alt="Updates via RSS feed"><i class="fa fa-rss fa-2x"></i></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="{{ site.url }}/contact/" title="Contact Us" alt="Contact Us"><i class="fa fa-envelope fa-2x"></i></a>
+
