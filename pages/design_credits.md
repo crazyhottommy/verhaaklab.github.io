@@ -7,6 +7,7 @@ title: "Website Design Credits"
 permalink: "/design_credits/"
 comments: false
 show_meta: false
+noindex: true
 ---
 
 <i class="fa fa-thumbs-o-up fa-2x"></i> Website made possible by open source efforts from:
@@ -19,4 +20,9 @@ show_meta: false
 *   [Image hover effects by Mary Lou](http://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/)
 *   [Tag box from Uber blog by Tobias Sjösten](https://github.com/tobiassjosten/tobiassjosten.github.io)
 *   [Background images for people pages by Supernova Themes](http://supernovathemes.com/55-small-lite-background-images-for-website-you-can-repeat/)
+*   [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
 
+
+##### Credits for images with unknown copyright details:
+
+*   [Administrative Assistant image]({{ site.url }}/assets/people/admin_animated.gif) by [Howard Alan Events](https://theartfestival.wordpress.com/2012/04/25/administrative-professionals-day/)
