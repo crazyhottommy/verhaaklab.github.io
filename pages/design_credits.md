@@ -21,6 +21,7 @@ noindex: true
 *   [Tag box from Uber blog by Tobias Sjösten](https://github.com/tobiassjosten/tobiassjosten.github.io)
 *   [Background images for people pages by Supernova Themes](http://supernovathemes.com/55-small-lite-background-images-for-website-you-can-repeat/)
 *   [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
+*   Search box by [Justin James](https://github.com/digitaldrummerj) and [Paula Borowska](http://webdesign.tutsplus.com/tutorials/css-experiments-with-a-search-form-input-and-button--cms-22069)
 
 
 ##### Credits for images with unknown copyright details:

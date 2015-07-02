@@ -1,19 +1,21 @@
 ---
-layout: page
+layout: page-people
 title: "Search"
 permalink: "/search/"
 comments: false
 show_meta: false
 ---
 
-{% include google_search.html %}
+<div id="searchbox" align="center">
+<div class="searchcont">
+    <span class="searchicon"><i class="fa fa-search fa-2x"></i></span>
+    <form role="search" method="get" action="{{ site.url }}/cse/">
+        <input id="searchString" name="searchString"
+               placeholder=" Search Verhaak Lab" type="text">
+    </form>
+</div>
+</div>
 
-<form style="padding-bottom: 200px;" onsubmit="google_search()" >
-  <input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
-</form>
+<hr>
 
-#### Can't find what you're looking for?
-
-<br>
-<a class="list-group-item" href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="{{ site.url }}/feed.xml" title="Updates via RSS feed" alt="Updates via RSS feed"><i class="fa fa-rss fa-2x"></i></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="{{ site.url }}/contact/" title="Contact Us" alt="Contact Us"><i class="fa fa-envelope fa-2x"></i></a>
-
+<a class="list-group-item" href="{{ site.url }}/tags/" title="Keyword based search" alt="Keyword based search"><i class="fa fa-tags fa-1x"></i> Try keyword based search</a>

@@ -139,8 +139,9 @@ defaults:
 #   ___/ / /___/ /_/ / 
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-#google_author:             "https://plus.google.com/u/0/+SamirAmin-Patel/"
+#google_author:             ""
 #google_site_verification:  ""
+google_search: '001063568319797838553:bmrsshxcky0'
 #bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 alexa_verify_id:         "PfFwdbSy_yLfWDNZd5k3G5QzJV4"
 
