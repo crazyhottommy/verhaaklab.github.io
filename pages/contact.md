@@ -9,7 +9,7 @@ permalink: "/contact/"
 comments: true
 show_meta: false
 #header:
-#    image_fullwidth: "misc/3scr6_bdg_pan.jpg"
+#    image_fullwidth: "misc/3scr6_bdg_pan1.jpg"
 #    caption: "South Campus Research Building 3-4"
 #    caption_url: "https://goo.gl/maps/AI1Lb"
 image:
