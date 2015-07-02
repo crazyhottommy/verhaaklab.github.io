@@ -8,6 +8,14 @@ meta_title: "Contact Roel Verhaak Lab"
 permalink: "/contact/"
 comments: true
 show_meta: false
+#header:
+#    image_fullwidth: "misc/3scr6_bdg_pan.jpg"
+#    caption: "South Campus Research Building 3-4"
+#    caption_url: "https://goo.gl/maps/AI1Lb"
+image:
+    title: "misc/3scr6_bdg_pan.jpg"
+    caption: "South Campus Research Building 3-4"
+    caption_url: "https://goo.gl/maps/AI1Lb"
 ---
 Please email Dr. Verhaak if you need timely reply related to research opportunities, research collaboration, and/or correspondence related to published manuscripts. 
 
