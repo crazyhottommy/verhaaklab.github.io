@@ -17,7 +17,7 @@ Name: Moritz Sauer
 Role: Webdesigner of Theme
 Theme: http://phlow.github.io/feeling-responsive/
 
-Design Contributors: http://verhaaklab.github.io/design_credits
+Design Contributors: {{ site.url }}/design_credits/
 
 /* SITE */
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}
