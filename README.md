@@ -1,6 +1,6 @@
 ## Verhaak Lab - Beta Version
 
-[![Build Status](https://travis-ci.org/verhaaklab/verhaaklab.github.io.svg?branch=master)](https://travis-ci.org/verhaaklab/verhaaklab.github.io) [![GitHub issues](https://img.shields.io/github/issues/verhaaklab/verhaaklab.github.io.svg)](https://github.com/verhaaklab/verhaaklab.github.io/issues) [![Status Beta](http://odin.mdacc.tmc.edu/~rverhaak/beta)](https://img.shields.io/badge/status-beta-yellow.svg)
+[![Build Status](https://travis-ci.org/verhaaklab/verhaaklab.github.io.svg?branch=master)](https://travis-ci.org/verhaaklab/verhaaklab.github.io) [![GitHub issues](https://img.shields.io/github/issues/verhaaklab/verhaaklab.github.io.svg)](https://github.com/verhaaklab/verhaaklab.github.io/issues) [![Status Beta](https://img.shields.io/badge/status-beta-yellow.svg)](http://odin.mdacc.tmc.edu/~rverhaak/beta)
 
 [//]: # (https://img.shields.io/badge/status-live-brightgreen.svg)
 
