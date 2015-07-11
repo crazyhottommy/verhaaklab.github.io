@@ -207,19 +207,19 @@ img.lazy {
 
 .searchbox{
   margin: 100px auto;
-  width: 340px;
+  width: 335px;
   height: 50px;
 }
 
 .searchcont{
-  width: 340px;
+  width: 335px;
   vertical-align: middle;
   white-space: nowrap;
   position: relative;
 }
 
 .searchcont input#searchString{
-  width: 340px;
+  width: 335px;
   height: 50px;
   background: #2b303b;
   border: none;
@@ -256,7 +256,7 @@ img.lazy {
 .searchcont .searchicon{
   position: absolute;
   top: 50%;
-  margin-left: 17px;
+  margin-left: 60px;
   margin-top: 10px;
   z-index: 1;
   color: #4f5b66;
@@ -273,7 +273,7 @@ img.lazy {
 .searchbox2{
   margin: 80px auto;
   width: 80px;
-  height: 40px;
+  height: 35px;
 }
 
 .searchcont2{
@@ -285,17 +285,16 @@ img.lazy {
 
 .searchcont2 input#searchString2{
   width: 80px;
-  height: 40px;
+  height: 35px;
   background: #313131;
-  border: none;
-  font-size: 10pt;
+  border: 2px ridge #7e7e7e;
+  font-size: 11pt;
   float: left;
   color: #262626;
   padding-left: 5px;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
-  border-radius: 2px;
-  color: #fff;
+  color: #f8f05d;
  
   -webkit-transition: width .55s ease;
   -moz-transition: width .55s ease;
@@ -305,40 +304,29 @@ img.lazy {
 }
 
 .searchcont2 input#searchString2::-webkit-input-placeholder {
-   color: #ffffff;
+   color: #65737e;
 }
  
 .searchcont2 input#searchString2:-moz-placeholder { /* Firefox 18- */
-   color: #ffffff;  
+   color: #65737e;  
 }
  
 .searchcont2 input#searchString2::-moz-placeholder {  /* Firefox 19+ */
-   color: #ffffff;  
+   color: #65737e;  
 }
  
 .searchcont2 input#searchString2:-ms-input-placeholder {  
-   color: #ffffff;  
-}
-
-.searchcont2 .searchicon2{
-  position: left;
-  padding-left: 25px;
-  top: 50%;
-  margin-left: 10px;
-  margin-top: 10px;
-  z-index: 1;
-  color: #ffffff;
+   color: #65737e;  
 }
 
 .searchcont2 input#searchString2:focus, .searchcont2 input#searchString2:active{
-  outline:2px groove #0a000a;
-  width: 200px;
+  outline:3px groove #0a000a;
+  width: 80px;
+  background: #65737e;
 }
  
 .searchcont2:hover input#searchString2{
-width: 200px;
+  width: 80px;
+  outline:3px groove #65737e;
 }
- 
-.searchcont2:hover .searchicon2{
-  color: #ffffff;
-}
+

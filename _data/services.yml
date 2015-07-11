@@ -1,9 +1,9 @@
 - menu_name: "Services"
 
-- name: "Contact"
-  url: "/contact/"
+- name: "Search"
+  url: "/search/"
   class: "services-contact"
-  title: "Contact"
+  title: "Search"
 
 - name: "Twitter"
   url: "https://twitter.com/roelverhaak"

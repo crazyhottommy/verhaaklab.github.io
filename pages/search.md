@@ -2,8 +2,11 @@
 layout: page-people
 title: "Search"
 permalink: "/search/"
+meta_title: "Search Verhaak Lab"
+meta_description: "Search Verhaak Lab - Powered by Google Custom Search"
 comments: false
 show_meta: false
+#teaser: SYSTEM GENERATED PAGE FOR SEARCH FUNCTIONS. DO NOT EDIT/RENAME/REMOVE THIS PAGE.
 ---
 
 <div id="searchbox" align="center">

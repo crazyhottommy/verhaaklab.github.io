@@ -1,11 +1,12 @@
 ---
 layout: page-people
-title: Custom Search Footer
+title: Search Verhaak Lab
 permalink: "/cse_footer/"
 sitemap: false
 noindex: true
 comments: false
 show_meta: false
+#teaser: SYSTEM GENERATED PAGE FOR SEARCH FUNCTIONS. DO NOT EDIT/RENAME/REMOVE THIS PAGE.
 ---
 <div id="searchbox2" align="center">
 <div class="searchcont2">
