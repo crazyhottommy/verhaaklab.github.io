@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Publications"
-#subheadline: "How to use Feeling Responsive"
-#teaser: "The documentation is a work in progress..."
+meta_title: "Publications - Verhaak Lab"
+meta_description: "List of selected and current publications, includes PubMed and Google Scholar listing"
 permalink: "/publications/"
 header:
 #   image_fullwidth: "publpics/wordle_verhaak.png"

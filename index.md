@@ -1,13 +1,7 @@
 ---
 layout: page-fullwidth
-title: ""
-subheadline: ""
-#teaser: "Verhaak Lab at the UT MD Anderson Cancer Center"
-categories:
-    - home
-tags:
-    - home
-    - landing
+meta_title: "Verhaak Lab at the UT MD Anderson Cancer Center"
+meta_description: "Verhaak Lab's research focus is the analysis of cancer genomics data to improve our understanding of cancer biology."
 #header:
 #    title:
 #    background-color: "#EFC94C;"
@@ -15,9 +9,9 @@ tags:
 #    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
 #    caption: This is a caption for the header image with link
 #    caption_url: https://unsplash.com/
+comments: false
+show_meta: false
 ---
-## Welcome to Verhaak Lab
-
 >This is a beta and unofficial version for a potential new look of our lab website. For current and most up-to-date version, please visit official website, **[http://odin.mdacc.tmc.edu/~rverhaak](http://odin.mdacc.tmc.edu/~rverhaak)**
 
 We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](http://www.mdanderson.org), Houston, TX. Our lab is affiliated with [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) and [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) at the MD Anderson Cancer Center.  

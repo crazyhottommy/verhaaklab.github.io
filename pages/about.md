@@ -1,12 +1,14 @@
 ---
 layout: page-people
 title: "About Roel Verhaak"
+meta_title: "About Roel Verhaak, PhD"
+meta_description: "Roel Verhaak is an Associate Professor in the Department of Bioinformatics and Computational Biology and the Department of Genomic Medicine at the University of Texas MD Anderson Cancer Center, in Houston, Texas. He has recenly took an adjunct faculty position in SCBMB graduate program at Baylor College of Medicine."
 subheadline: ""
 comments: false
 show_meta: false
 teaser: ""
 permalink: "/about/"
-header:
+#header:
 #    image_fullwidth: "publpics/gbmsubtypes_header.png"
 #    caption: Verhaak RG et al. Cancer Cell 2010
 breadcrumb: false

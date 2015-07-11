@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "All publications since 2004"
-#subheadline: ""
-#teaser: ""
+meta_title: "Publications since 2004 - Verhaak Lab"
+meta_description: "Chronological list of publications by Verhaak Lab since 2004"
 permalink: "/all_publications/"
 header:
 #   image_fullwidth: "header_roadmap_2.jpg"

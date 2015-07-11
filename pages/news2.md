@@ -2,12 +2,15 @@
 layout: page
 title: "Category: News"
 teaser: "Blog posts marked with category: <i>News</i>. For all posts, go to blog"
+meta_title: "Category marked with News - Verhaak Lab"
+meta_description: "Blog posts marked with category: news. For all posts, go to blog"
 #header:
 #   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/news2/"
 comments: false
 show_meta: false
 sitemap: false
+#teaser: SYSTEM GENERATED PAGE FOR KEYWORDS FUNCTIONS. DO NOT EDIT/RENAME/REMOVE THIS PAGE.
 ---
 
 <div id="blog-index" class="row">

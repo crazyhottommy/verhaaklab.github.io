@@ -2,11 +2,12 @@
 layout: page
 title: "Meetings & Conferences"
 teaser: "Posters & Oral Presentations by Lab Members"
-#header:
-#   image_fullwidth: "header_unsplash_5.jpg"
+meta_title: "Posters & Oral Presentations - Verhaak Lab"
+meta_description: "Posters & Oral Presentations at Meetings & Conferences presented by Lab Members of Verhaak Lab."
 permalink: "/conference/"
 comments: false
 show_meta: false
+#teaser: SYSTEM GENERATED PAGE FOR KEYWORDS FUNCTIONS. DO NOT EDIT/RENAME/REMOVE THIS PAGE.
 ---
 <div id="blog-index" class="row">
   <div class="small-12 columns t30">

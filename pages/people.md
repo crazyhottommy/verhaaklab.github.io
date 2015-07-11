@@ -1,6 +1,8 @@
 ---
 layout: page-people
 title:  "Lab Members"
+meta_title: "Lab Members & Alumni - Verhaak Lab"
+meta_description: "Current lab members and alumni"
 #teaser: ""
 categories:
     - people

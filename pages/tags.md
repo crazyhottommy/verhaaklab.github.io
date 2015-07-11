@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "Search By Categories / Tags"
-#teaser: "Browse website by keywords"
 permalink: "/tags/"
+meta_title: "Keyword based search - Verhaak Lab"
+meta_description: "Browse Verhaak Lab by category and tag based index"
 comments: false
 show_meta: false
+sitemap: true
+#teaser: SYSTEM GENERATED PAGE FOR KEYWORDS FUNCTIONS. DO NOT EDIT/RENAME/REMOVE THIS PAGE.
 ---
 
 <ul class="tags-ts">

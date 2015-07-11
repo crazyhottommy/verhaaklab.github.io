@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Contact"
+meta_title: "Contact Us - Verhaak Lab at the UT MD Anderson Cancer Center"
+meta_description: "Contact Verhaak Lab, Houston, TX about available research opportunities, research collaboration, and/or correspondence related to published manuscripts. Includes mailing address, lab location, driving directions."
 sidebar: right
-meta_title: "Contact Roel Verhaak Lab"
 #subheadline: ""
 #teaser: ""
 permalink: "/contact/"

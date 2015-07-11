@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Awards"
+meta_title: "Awards - Verhaak Lab"
+meta_description: "Grants, Fellowships, Conference Posters & Presentations, etc. received by members of Verhaak Lab."
 teaser: "Grants, Fellowships, Conference Posters & Presentations, etc."
-#header:
-#   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/award/"
 comments: false
 show_meta: false
+#teaser: SYSTEM GENERATED PAGE FOR KEYWORDS FUNCTIONS. DO NOT EDIT/RENAME/REMOVE THIS PAGE.
 ---
 <div id="blog-index" class="row">
   <div class="small-12 columns t30">

@@ -1,6 +1,8 @@
 ---
 layout: page-people
 title:  "Group Photos"
+meta_title: "Photo Gallery - Verhaak Lab"
+meta_description: "Pictures of Lab  and other events"
 #teaser: ""
 categories:
     - people

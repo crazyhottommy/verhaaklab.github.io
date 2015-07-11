@@ -2,6 +2,8 @@
 layout: page
 title: "Research"
 subheadline: "Analysis of cancer genomics data to improve our understanding of cancer biology"
+meta_title: "Research at Verhaak Lab"
+meta_description: "The Verhaak lab is part of the Department of Bioinformatics and Computational Biology at the MD Anderson Cancer Center. Our research focus is the analysis of cancer genomics data to improve our understanding of cancer biology."
 permalink: "/research/"
 comments: false
 show_meta: false

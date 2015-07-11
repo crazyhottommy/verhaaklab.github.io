@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Resources"
-#subheadline: ""
-#teaser: ""
-#header:
-#   image_fullwidth: "header_roadmap_3.jpg"
+subheadline: "Softwares and Databses"
+meta_title: "Resources for Research Use - Verhaak Lab"
+meta_description: "Softwares, databases and other resources in cancer computational biology by Verhaak Lab"
 permalink: "/resources/"
 comments: false
 show_meta: false

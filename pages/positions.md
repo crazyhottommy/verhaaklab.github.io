@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Education"
-teaser: "Academic Training Opportunities"
+teaser: "Research Opportunities"
+meta_title: "Research Positions - Verhaak Lab"
+meta_description: "Academic training opportunities for motivated and talented postdoctoral candidates, graduate students and summer rotation students in areas of cancer computational biology in Verhaak Lab at the UT MD Anderson Cancer Center, Houston, TX"
 #header:
 #   image_fullwidth: "header_roadmap_3.jpg"
 permalink: "/positions/"
