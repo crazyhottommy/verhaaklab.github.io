@@ -42,9 +42,6 @@
 - title: "Search"
   url: "/search/"
   side: left
-  dropdown:
-  - title: "Keywords"
-    url: "/tags/"
 
 - title: "Contact"
   url: "/contact/"

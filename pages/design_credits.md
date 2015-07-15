@@ -18,7 +18,9 @@ noindex: true
     *   [Images by Unsplash](http://unsplash.com/)
     *   [Using Backstretch by Scott Robbin](http://srobbin.com/jquery-plugins/backstretch/)
 *   [Image hover effects by Mary Lou](http://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/)
-*   [Tag box from Uber blog by Tobias Sjösten](https://github.com/tobiassjosten/tobiassjosten.github.io)
+*   Tag cloud:
+    *   By [Tobias Sjosten](https://github.com/tobiassjosten/tobiassjosten.github.io)
+    *   By [Thibaut Courouble](https://github.com/Thibaut) at [cssflow.com](http://www.cssflow.com/snippets/sliding-tags)
 *   [Background images for people pages by Supernova Themes](http://supernovathemes.com/55-small-lite-background-images-for-website-you-can-repeat/)
 *   [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
 *   Search box by [Justin James](https://github.com/digitaldrummerj) and [Paula Borowska](http://webdesign.tutsplus.com/tutorials/css-experiments-with-a-search-form-input-and-button--cms-22069)
