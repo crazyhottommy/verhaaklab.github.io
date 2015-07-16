@@ -24,6 +24,8 @@ noindex: true
 *   [Background images for people pages by Supernova Themes](http://supernovathemes.com/55-small-lite-background-images-for-website-you-can-repeat/)
 *   [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
 *   Search box by [Justin James](https://github.com/digitaldrummerj) and [Paula Borowska](http://webdesign.tutsplus.com/tutorials/css-experiments-with-a-search-form-input-and-button--cms-22069)
+*   Photo gallery:
+    *   [stackoverflow post](http://stackoverflow.com/a/8303885) by [user:kikito](http://stackoverflow.com/users/312586/kikito) 
 
 
 ##### Credits for images with unknown copyright details:

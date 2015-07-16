@@ -138,7 +138,7 @@ show_meta: false
   <div class="ch-item ch-img-kyoshihara">
     <div class="ch-info">
       <h3>Kosuke Yoshihara, MD, PhD</h3>
-      <p>01/12-07/14 <a href="{{ site.url }}/people/k_yoshihara/">About</a></p>
+      <p>01/12-07/14 <a href="https://twitter.com/KosukeYoshihara">@KosukeYoshihara</a></p>
     </div>
   </div>
   </li>
