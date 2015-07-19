@@ -41,19 +41,38 @@ Our research focus is in the analysis of cancer genomics data to improve our und
 <br>
 
 <center>
+<ul class="small-block-grid-2">
+<li>
 <div class="mytweets">
 <a class="twitter-timeline"
+  data-dnt="true"
   width="600"
   height="250"
   href="https://twitter.com/RoelVerhaak"
   data-widget-id="609868819989815296"
-  data-tweet-limit="3"
+  data-tweet-limit="2"
   data-chrome="nofooter noborders noscrollbar transparent">
   Recent Tweets</a>
 </div>
 <script>
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 </script>
+</li>
+<li>
+<div class="mytweets">
+<a class="twitter-timeline"
+  data-dnt="true"
+  href="https://twitter.com/SBAmin/lists/verhaak-lab" 
+  data-widget-id="622636078554451968"
+  width="600"
+  height="250"
+  data-tweet-limit="2"
+  data-chrome="noheader nofooter noborders noscrollbar transparent">Tweets from Verhaak Lab</a>
+</div>
+<script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+</li>
 </center>
 
 <br>
