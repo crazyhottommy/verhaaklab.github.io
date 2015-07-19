@@ -1,13 +1,22 @@
 ---
-title: paper_cancer_classifications_expr_oncogene
-date: 2015-06-13T12:55:30-05:00
 layout: page
-teaser: ""
+title:
+teaser:
 categories:
-    - paper
-tags:
-    - people
+    - award
+    - conference
+    - publication
     - news
+    - people
+tags:
+    - members
+    - news
+    - awards
+    - meetings
+    - postdocs
+    - kirc
+    - wt_garcia
+date: 2011-10-21
 comments: true
 show_meta: true
 ---
