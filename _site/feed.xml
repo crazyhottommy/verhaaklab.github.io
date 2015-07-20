@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verhaak Lab</title>
+    <description>Verhaak Lab&#39;s research focus is the analysis of cancer genomics data to improve our understanding of cancer biology.</description>
+    <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/</link>
+    <atom:link href="http://odin.mdacc.tmc.edu/~rverhaak/beta/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>TCGA Low Grade Glioma Paper</title>
+        <description>&lt;p&gt;The TCGA lower grade glioma paper was published in the New England Journal today with critical contributions from our lab. Roel was cited on &lt;a href=&quot;http://www.nbcnews.com/health/cancer/how-deadly-brain-tumor-only-dna-can-tell-n373326&quot;&gt;NBC news&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.mdanderson.org/newsroom/news-releases/2015/study-redefines-brain-tumor-diagnosis-and-treatment.html&quot;&gt;MD Anderson News Release&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;TCGA Network. Comprehensive, Integrative Genomic Analysis of Diffuse Lower-Grade Gliomas. &lt;em&gt;N Engl J Med.&lt;/em&gt; 2015. PMID: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/26061751&quot;&gt;26061751&lt;/a&gt; &lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMoa1402121&quot;&gt;Full text article&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_tcga_lgg_nejm/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_tcga_lgg_nejm/</guid>
+      </item>
+    
+      <item>
+        <title>Tumor evolution in glioblastoma</title>
+        <description>&lt;p&gt;Hoon and Siyuan are co-first authors of our Genome Research publication on tumor evolution in glioblastoma. Congratulations!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kim H, Zheng S, …, Verhaak RG. Whole-genome and multisector exome sequencing of primary and post-treatment glioblastoma reveals patterns of tumor evolution. &lt;em&gt;Genome Res.&lt;/em&gt; 2015. PMID: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/25650244&quot;&gt;25650244&lt;/a&gt; &lt;a href=&quot;http://genome.cshlp.org/content/early/2015/02/03/gr.180612.114.abstract&quot;&gt;Full text article&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_gbm_evolution_genomeres/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_gbm_evolution_genomeres/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome Samir Amin!</title>
+        <description>&lt;p&gt;Through a lateral transfer from Lynda Chin’s lab, we welcome graduate student &lt;a href=&quot;http://odin.mdacc.tmc.edu/~rverhaak/beta/people/s_amin&quot;&gt;Samir Amin&lt;/a&gt; in &lt;a href=&quot;http://odin.mdacc.tmc.edu/~rverhaak/beta/people/&quot;&gt;our midst&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/people/people_samir_join/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/people/people_samir_join/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome Summer Students!</title>
+        <description>&lt;p&gt;Two undergraduate students have joined the lab for the summer. Welcome to Lexi Xuanyi Li from Notre Dame, and Fred Lang Jr. from Duke.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 May 2015 13:03:40 -0500</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/people/people_lexi_fred_join/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/people/people_lexi_fred_join/</guid>
+      </item>
+    
+      <item>
+        <title>More commentaries</title>
+        <description>&lt;p&gt;More commentaries: Hoon and Roel published a &lt;em&gt;Nature Genetics News &amp;amp; Views&lt;/em&gt; article on colorectal carcinoma and the tumor microenvironment.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kim H, Verhaak RG. Transcriptional mimicry by tumor-associated stroma. &lt;em&gt;Nat Genet.&lt;/em&gt; 2015. PMID: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/25814306&quot;&gt;25814306&lt;/a&gt; &lt;a href=&quot;http://www.nature.com/ng/journal/v47/n4/full/ng.3255.html&quot;&gt;Full text article&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 27 Mar 2015 13:03:40 -0500</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_coad_tmen_nature_genet/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_coad_tmen_nature_genet/</guid>
+      </item>
+    
+      <item>
+        <title>Preview commentary article on precision medicine in oncology</title>
+        <description>&lt;p&gt;A Preview commentary article on precision medicine in oncology was published in &lt;em&gt;Cancer Cell&lt;/em&gt;, with first author Emmanuel.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Martinez-Ledesma E, de Groot JF, Verhaak RG. Seek and destroy: relating cancer drivers to therapies. &lt;em&gt;Cancer Cell&lt;/em&gt; 2015. PMID: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/25759016&quot;&gt;25759016&lt;/a&gt; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S1535610815000616&quot;&gt;Full text article&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 09 Mar 2015 00:00:00 -0500</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_predicion_med_cancer_cell/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/publication/paper_predicion_med_cancer_cell/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome Ming Tommy Tang!</title>
+        <description>&lt;p&gt;A warm welcome to postdoc Ming &lt;em&gt;Tommy&lt;/em&gt; Tang.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2015 12:03:40 -0600</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/people/people_ming_join/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/people/people_ming_join/</guid>
+      </item>
+    
+      <item>
+        <title>Finalist for the Robert M. Chamberlain Distinguished Mentor Award</title>
+        <description>&lt;p&gt;It was announced today that Roel is a finalist for the &lt;a href=&quot;http://www.mdanderson.org/education-and-research/education-and-training/schools-and-programs/research-training/postdoctoral-association/events/distinguished-mentor-award/index.html&quot;&gt;Robert M. Chamberlain Distinguished Mentor Award&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are postdoc positions open in the lab, &lt;a href=&quot;http://odin.mdacc.tmc.edu/~rverhaak/beta/positions/&quot;&gt;join us&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 -0600</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/news/news_mentor_award_finalist/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/news/news_mentor_award_finalist/</guid>
+      </item>
+    
+      <item>
+        <title>Congratulations to Kim Hoon!</title>
+        <description>&lt;p&gt;In recognition of his excellent &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/?term=25650244&quot;&gt;Genome Research publication&lt;/a&gt;, Kim Hoon was awarded the 2015 Caroline Ross Endowed Fellowship.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Jan 2015 09:14:27 -0600</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/award/award_kim_caroline_ross/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/award/award_kim_caroline_ross/</guid>
+      </item>
+    
+      <item>
+        <title>TCGA lower grade glioma annual meeting</title>
+        <description>&lt;p&gt;Roel represented the TCGA lower grade glioma working group at the annual Society for Neuro-Oncology (SNO) meeting in Miami,FL, Nov 13-16, which was well received.&lt;/p&gt;
+
+&lt;h5 id=&quot;press-releases&quot;&gt;Press releases:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Levitan D. Genomic Analysis Will Reshape Low-Grade Glioma Classification, Treatment. &lt;em&gt;Published 11/28/2014&lt;/em&gt;. See more at: &lt;a href=&quot;http://www.cancernetwork.com/sno-2014/genomic-analysis-will-reshape-low-grade-glioma-classification-treatment&quot;&gt;http://www.cancernetwork.com/sno-2014/genomic-analysis-will-reshape-low-grade-glioma-classification-treatment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;OncLive.com: &lt;a href=&quot;http://www.onclive.com/conference-coverage/sno-2014/Roeland-GW-Verhaak-PhD-Discusses-Genomic-Characterization-of-Diffuse-Lower-Grade-Gliomas&quot;&gt;Dr. Verhaak Discusses Genomic Characterization of Diffuse Lower Grade Gliomas&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 20 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://odin.mdacc.tmc.edu/~rverhaak/beta/conference/conference_verhaak_tcga_lgg_2014/</link>
+        <guid isPermaLink="true">http://odin.mdacc.tmc.edu/~rverhaak/beta/conference/conference_verhaak_tcga_lgg_2014/</guid>
+      </item>
+    
+  </channel>
+</rss>
