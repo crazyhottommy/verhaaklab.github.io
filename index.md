@@ -18,7 +18,7 @@ We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](
 
 Our research focus is in the analysis of cancer genomics data to improve our understanding of cancer biology. We have a specialized research interest in understanding of origin and progression of brain tumors, *glioblastoma and glioma* and thus, advancing colloborative efforts in discovery of risk predictive & prognostic genomic biomarkers as well as therapuetic targets.
 
-### <center><i class="fa fa-info-circle fa-1.9x"></i> Recent News</center>
+### <i class="fa fa-info-circle fa-1.9x"> Recent News</i>
 
 <div id="blog-index" class="row">
   <div class="small-12 columns t30">
@@ -38,9 +38,8 @@ Our research focus is in the analysis of cancer genomics data to improve our und
   </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
-<br>
+### <i class="fa fa-twitter fa-1.9x"> Tweets from Lab</i>
 
-<center>
 <ul class="small-block-grid-2">
 <li>
 <div class="mytweets">
@@ -51,7 +50,7 @@ Our research focus is in the analysis of cancer genomics data to improve our und
   href="https://twitter.com/RoelVerhaak"
   data-widget-id="609868819989815296"
   data-tweet-limit="2"
-  data-chrome="nofooter noborders noscrollbar transparent">
+  data-chrome="noheader nofooter noborders noscrollbar transparent">
   Recent Tweets</a>
 </div>
 <script>
@@ -63,7 +62,7 @@ Our research focus is in the analysis of cancer genomics data to improve our und
 <a class="twitter-timeline"
   data-dnt="true"
   href="https://twitter.com/SBAmin/lists/verhaak-lab" 
-  data-widget-id="622636078554451968"
+  data-widget-id="623382009931436032"
   width="600"
   height="250"
   data-tweet-limit="2"
@@ -73,7 +72,7 @@ Our research focus is in the analysis of cancer genomics data to improve our und
     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 </script>
 </li>
-</center>
+</ul>
 
 <br>
 
