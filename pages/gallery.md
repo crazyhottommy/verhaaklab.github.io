@@ -18,6 +18,9 @@ comments: false
 show_meta: false
 breadcrumb: true
 gallery:
+    - Verhaak Lab, TopGolf, Houston, TX July-2015: /retreat/0715/topgolf.jpg
+    - TopGolf, Houston, TX July-2015: /retreat/0715/topgolf_collage.jpg
+    - GM/IACS CompBio Group, July-2015: /retreat/0715/dinner.jpg
     - June-2013: /retreat/verhaaklab-20130617.jpg
     - May-2012: /retreat/groupphoto.201205.png
     - April-2012: /retreat/groupphoto.201204.png
@@ -32,4 +35,4 @@ gallery:
 {% endfor %}
 </ul>
 
-### [Picasa Gallery](http://bit.ly/verhaklab_pics)
+*   [Group Pictures](http://bit.ly/verhaaklab_group_pics)
