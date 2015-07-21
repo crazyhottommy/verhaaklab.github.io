@@ -131,6 +131,10 @@ show_meta: false
   </li>
   </ul>
 
+### [Summer Students]({{ site.url }}/tags/#summer_students):
+
+***
+
 ### Alumni
 
 <ul class="ch-grid">  
