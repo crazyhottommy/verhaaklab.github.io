@@ -88,6 +88,7 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - vendor
 
 # Octopress
 
@@ -155,7 +156,7 @@ defaults:
 #google_site_verification:  ""
 google_search: '001063568319797838553:bmrsshxcky0'
 #bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
-# alexa_verify_id:         ""
+alexa_verify_id:         "PfFwdbSy_yLfWDNZd5k3G5QzJV4"
 
 
 
