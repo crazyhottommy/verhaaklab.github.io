@@ -9,5 +9,6 @@ permalink: "/people/e_eskilsson/"
 #    image_fullwidth: "res/gbmsubtypes.png"
 breadcrumb: true
 ---
+{% include improve_content.html %}
 
 Hello World!

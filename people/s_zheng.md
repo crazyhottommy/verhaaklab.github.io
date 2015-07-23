@@ -10,6 +10,7 @@ permalink: "/people/s_zheng/"
 breadcrumb: true
 author: siyuan_zheng
 ---
+{% include improve_content.html %}
 
 <ul class="ch-grid">
   <li>

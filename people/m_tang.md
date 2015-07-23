@@ -10,6 +10,7 @@ permalink: "/people/m_tang/"
 breadcrumb: true
 author: ming_tang
 ---
+{% include improve_content.html %}
 
 <ul class="ch-grid">
   <li>

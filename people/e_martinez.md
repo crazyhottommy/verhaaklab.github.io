@@ -11,6 +11,7 @@ breadcrumb: true
 breadcrumb: true
 author: emmanuel_martinez
 ---
+{% include improve_content.html %}
 
 <ul class="ch-grid">
   <li>
