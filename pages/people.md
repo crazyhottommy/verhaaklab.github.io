@@ -132,7 +132,17 @@ show_meta: false
   </ul>
 
 ### [Summer Students]({{ site.url }}/tags/#summer_students):
-
+<ul class="ch-grid">  
+  <li>
+    Dennis Garcia (summer of 2014); Massachusetts Institute of Technology
+  </li>
+  <li>
+    Xuanyi (Lexi) Li (summer of 2015); University of Notre Dame
+  </li>
+  <li>
+    Frederick Lang (summer of 2015); Duke University
+  </li>
+</ul> 
 ***
 
 ### Alumni
