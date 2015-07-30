@@ -36,7 +36,7 @@ The [website](http://ibl.mdanderson.org/estimate/) presents the scores for all T
 ## <i class="fa fa-database"></i> Database:
 ***
 
-### [TumorFusions](http://tumorfusions.org)
+### [TumorFusions.Org](http://tumorfusions.org)
 
 Transcripts fusion as a result of genomic rearrangement is an important class of somatic alteration, as a cancer initiating event and as a molecular therapeutic target for specific tumors. Our Pipeline for RNA sequencing Data Analysis (PRADA) enables us to detect fusion transcripts with high confidence comprehensively. Based on integrated analysis of paired-end RNA sequencing and DNA copy number data from The Cancer Genome Atlas(TCGA), TCGA Fusion Gene Data Portal provides a bona-fide fusion list across many tumor types.
 
