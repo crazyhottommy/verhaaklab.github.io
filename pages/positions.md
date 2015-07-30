@@ -13,7 +13,7 @@ show_meta: false
 
 We are always open to  motivated and talented postdoctoral candidates, graduate students and summer rotation students in areas of computational biology,   and medicine or molecular biology applicants with an interest in computational biology. 
 
-For questions regarding available training opportunities, please [contact Dr. Roel Verhaak]({{ site.url }}/contact/).
+For questions regarding available training opportunities, please [contact Roel]({{ site.url }}/contact/).
 
 For graduate research training, we are  affiliated with the [UT MD Anderson Cancer Center GSBS Program](http://gsbs.uth.edu) and the [SCBMB Graduate Program at Baylor College of Medicine](http://bcm.edu/scbmb).
 
