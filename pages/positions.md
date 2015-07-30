@@ -11,11 +11,11 @@ comments: false
 show_meta: false
 ---
 
-We are always willing to welcome motivated and talented postdoctoral candidates, graduate students and summer rotation students in areas of cancer computational biology as well as applicants who have majored in molecular biology with developing interest in computational biology. 
+We are always open to  motivated and talented postdoctoral candidates, graduate students and summer rotation students in areas of computational biology,   and medicine or molecular biology applicants with an interest in computational biology. 
 
 For questions regarding available training opportunities, please [contact Dr. Roel Verhaak]({{ site.url }}/contact/).
 
-For graduate research training, we are primarily affiliated with [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) at the [UT MD Anderson Cancer Center GSBS Program](http://gsbs.uth.edu). We also have secondary affiliation with [SCBMB Graduate Program at Baylor College of Medicine](http://bcm.edu/scbmb).
+For graduate research training, we are  affiliated with the [UT MD Anderson Cancer Center GSBS Program](http://gsbs.uth.edu) and the [SCBMB Graduate Program at Baylor College of Medicine](http://bcm.edu/scbmb).
 
 <ul class="small-block-grid-2">
 <li><a href="http://gsbs.uth.edu"><img alt="The University of Texas Graduate School of Biomedical Sciences at Houston" title="The University of Texas Graduate School of Biomedical Sciences at Houston" src="{{ site.url }}/images/logos/utgsbs_logo.png"></a></li>
