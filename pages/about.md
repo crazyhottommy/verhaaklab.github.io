@@ -2,7 +2,7 @@
 layout: page-people
 title: "About Roel Verhaak"
 meta_title: "About Roel Verhaak, PhD"
-meta_description: "Roel Verhaak is an Associate Professor in the Department of Bioinformatics and Computational Biology and the Department of Genomic Medicine at the University of Texas MD Anderson Cancer Center, in Houston, Texas. He has recenly took an adjunct faculty position in SCBMB graduate program at Baylor College of Medicine."
+meta_description: "Roel Verhaak is an Associate Professor in the Department of Bioinformatics and Computational Biology and the Department of Genomic Medicine at the University of Texas MD Anderson Cancer Center, in Houston, Texas. "
 subheadline: ""
 comments: false
 show_meta: false
@@ -25,7 +25,7 @@ breadcrumb: false
   </li>
 </ul>
 
-Since 2010, Roel Verhaak is an Associate Professor in the [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) and the [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) at the [University of Texas MD Anderson Cancer Center](http://www.mdanderson.org), in Houston, Texas. He has recenly took an adjunct faculty position in [SCBMB graduate program at Baylor College of Medicine](http://bcm.edu/scbmb). He lives in Bellaire with his wife Allison and their twin boys, Benjamin and Olivier. 
+Since 2010, Roel Verhaak part of the faculty of the [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) and the [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) at the [University of Texas MD Anderson Cancer Center](http://www.mdanderson.org), in Houston, Texas. He has been affiliated with the [Graduate School for Biomedical Sciences](https://gsbs.uth.edu/) at MD Anderson since 2013, and  [SCBMB graduate program at Baylor College of Medicine](http://bcm.edu/scbmb) since 2015. He lives in Bellaire with his wife Allison and their twin boys, Benjamin and Olivier. 
 
 ### Previously
 
@@ -39,7 +39,7 @@ At the Broad/Dana-Farber, he concentrated on the integration of genomic and tran
 
 ### Before that
 
-In 2006, Roel received his doctoral degree for his thesis titled "Gene expression profiling of acute myeloid leukemia.", working with Dr. Peter Valk and Prof. Dr. Bob Löwenberg at the [Erasmus University Medical Center](http://www.erasmusmc.nl) in Rotterdam, the Netherlands. His thesis is available [online](http://www.virtuon.nl/thesis/). Prior to completing his PhD, Roel earned his MSc in Medical Sciences from the Radboud University in Nijmegen, the Netherlands. His program included a number of courses in computer science. This led him to do his first stint in bioinformatics, with Dalicon BV.
+In 2006, Roel received his doctoral degree for his thesis titled "Gene expression profiling of acute myeloid leukemia.", working with Dr. Peter Valk and Prof. Dr. Bob Löwenberg at the [Erasmus University Medical Center](http://www.erasmusmc.nl) in Rotterdam, the Netherlands. His thesis is available [online](http://www.virtuon.nl/thesis/). Prior to completing his PhD, Roel earned his MSc in Biomedical Sciences from the Radboud University in Nijmegen, the Netherlands. This program was expanded with a number of courses in computer science. 
 
 
 <a class="list-group-item" href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="{{ site.url }}/feed.xml" title="Updates via RSS feed" alt="Updates via RSS feed"><i class="fa fa-rss fa-2x"></i></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a class="list-group-item" href="{{ site.url }}/contact/" title="Contact Us" alt="Contact Us"><i class="fa fa-envelope fa-2x"></i></a>
