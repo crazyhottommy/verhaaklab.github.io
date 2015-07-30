@@ -134,13 +134,13 @@ show_meta: false
 ### [Summer Students]({{ site.url }}/tags/#summer_students):
 <ul class="ch-grid">  
   <li>
-    Dennis Garcia (summer of 2014); Massachusetts Institute of Technology
+    Dennis Garcia (summer of 2014)<br /> Massachusetts Institute of Technology
   </li>
   <li>
-    Xuanyi (Lexi) Li (summer of 2015); University of Notre Dame
+    Xuanyi (Lexi) Li (summer of 2015)<br /> University of Notre Dame
   </li>
   <li>
-    Frederick Lang (summer of 2015); Duke University
+    Frederick Lang (summer of 2015)<br /> Duke University
   </li>
 </ul> 
 ***
