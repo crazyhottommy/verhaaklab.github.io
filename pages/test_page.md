@@ -1,17 +1,19 @@
 ---
 layout: page
-title:This is test page
+title: This is test page
 teaser: this is teaser
 categories:
     - news
 tags:
     - members
     - test
-date: 2015-07-30
-comments: true
-show_meta: true
+permalink: /test/
+comments: false
+show_meta: false
+published: false
 ---
 
-## This is test page
+## Hello World!
 
 :thumbsup:
+
