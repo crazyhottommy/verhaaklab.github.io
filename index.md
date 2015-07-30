@@ -17,7 +17,7 @@ We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](
 
 Our research focus is in the analysis of cancer genomics data to improve our understanding of cancer biology. We have a specialized research interest in understanding disease progression of brain tumors, particularly *glioblastoma and glioma*. We mostly use high throughput sequencing and computational analysis in our research.
 
-### <i class="fa fa-info-circle fa-1.9x"> Latest News</i>
+### <i class="fa fa-info-circle fa-1.9x"> News</i>
 
 <div id="blog-index" class="row">
   <div class="small-12 columns t30">
