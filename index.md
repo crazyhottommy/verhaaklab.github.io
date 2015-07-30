@@ -12,13 +12,12 @@ meta_description: "Verhaak Lab's research focus is the analysis of cancer genomi
 comments: false
 show_meta: false
 ---
->This is a beta and unofficial version for a potential new look of our lab website. For current and most up-to-date version, please visit official website, **[http://odin.mdacc.tmc.edu/~rverhaak](http://odin.mdacc.tmc.edu/~rverhaak)**
 
-We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](http://www.mdanderson.org), Houston, TX. Our lab is affiliated with [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) and [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) at the MD Anderson Cancer Center.  
+We are a computational cancer biology lab at the [UT MD Anderson Cancer Center](http://www.mdanderson.org), Houston, TX. Our lab is affiliated with the [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) and the [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) at UT MD Anderson Cancer Center.  
 
-Our research focus is in the analysis of cancer genomics data to improve our understanding of cancer biology. We have a specialized research interest in understanding of origin and progression of brain tumors, *glioblastoma and glioma* and thus, advancing colloborative efforts in discovery of risk predictive & prognostic genomic biomarkers as well as therapuetic targets.
+Our research focus is in the analysis of cancer genomics data to improve our understanding of cancer biology. We have a specialized research interest in understanding disease progression of brain tumors, particularly *glioblastoma and glioma*. We mostly use high throughput sequencing and computational analysis in our research.
 
-### <i class="fa fa-info-circle fa-1.9x"> Recent News</i>
+### <i class="fa fa-info-circle fa-1.9x"> Latest News</i>
 
 <div id="blog-index" class="row">
   <div class="small-12 columns t30">
@@ -38,7 +37,7 @@ Our research focus is in the analysis of cancer genomics data to improve our und
   </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
-### <i class="fa fa-twitter fa-1.9x"> Tweets from Lab</i>
+### <i class="fa fa-twitter fa-1.9x"> Latest Tweets from the Lab</i>
 
 <ul class="small-block-grid-2">
 <li>
