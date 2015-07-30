@@ -55,7 +55,7 @@
                 {% assign domain = site.url %}
               {% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %} target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
                 </li>
             {% endfor %}
             </ul>
@@ -78,7 +78,12 @@
           <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
             <ul class="inline-list">
             {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+              {% if social_item.url contains 'http' %}
+              {% assign domain = '' %}
+              {% else %}
+              {% assign domain = site.url %}
+            {% endif %}
+            <li><a href="{{ domain }}{{ social_item.url }}" {% if social_item.url contains 'http' %} target="_blank" {% endif %} class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
             {% endfor %}
             <li>
             <div id="searchbox2" align="center">
