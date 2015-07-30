@@ -18,13 +18,13 @@ image:
     caption: "South Campus Research Building 3-4"
     caption_url: "https://goo.gl/maps/AI1Lb"
 ---
-Please email Dr. Verhaak if you need timely reply related to research opportunities, research collaboration, and/or correspondence related to published manuscripts. 
 
-<i class="fa fa-twitter"></i> <a href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak">@roelverhaak</a> for everything else! 
+
+<i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/roelverhaak" title="Follow me @roelverhaak" alt="Follow me @roelverhaak">@roelverhaak</a> for lab updates and information related to our research. 
 
 #### Correspondence:
 <hr>
-Roeland G. Verhaak, PhD  
+Roel G.W. Verhaak, PhD  
 
 Associate Professor  
 Department of Genomic Medicine &  Department of Bioinformatics and Computational Biology   
