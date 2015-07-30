@@ -2,8 +2,14 @@
 ---
 # www.robotstxt.org/
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
-#User-agent: *
-#Sitemap: {{ site.url }}/sitemap.xml
 
+## For github pages:
 User-agent: *
 Disallow: /
+##
+
+## For MDA domain: Uncomment following three lines and comment rest of contents above:
+#User-agent: *
+#Disallow: /beta/*
+#Sitemap: {{ site.url }}/sitemap.xml
+
