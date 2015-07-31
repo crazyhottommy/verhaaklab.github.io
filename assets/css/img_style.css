@@ -83,6 +83,10 @@
 	background-image: url(../people/ssamini.jpg);
 }
 
+.ch-img-xperson { 
+	background-image: url(../people/xperson.png);
+}
+
 .ch-info {
 	position: absolute;
 	background: rgba(63,147,147, 0.8);
