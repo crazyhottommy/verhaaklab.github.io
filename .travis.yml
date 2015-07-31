@@ -4,7 +4,7 @@ rvm:
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  pip install codecov
+  - pip install codecov
 
 script:
   - bundle exec jekyll build
