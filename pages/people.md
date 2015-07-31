@@ -132,17 +132,34 @@ show_meta: false
   </ul>
 
 ### [Summer Students]({{ site.url }}/tags/#summer_students):
-<ul class="ch-grid">  
+
+<ul class="ch-grid">
   <li>
-    Dennis Garcia (summer of 2014)<br /> Massachusetts Institute of Technology
+    <div class="ch-item ch-img-xperson">
+      <div class="ch-info">
+        <h3>Dennis Garcia</h3>
+        <p>Summer 2014, Massachusetts Institute of Technology</p>
+      </div>
+    </div>
   </li>
   <li>
-    Xuanyi (Lexi) Li (summer of 2015)<br /> University of Notre Dame
+    <div class="ch-item ch-img-xperson">
+      <div class="ch-info">
+        <h3>Xuanyi (Lexi) Li</h3>
+        <p>Summer 2015, Univ. of Notre Dame</p>
+      </div>
+    </div>
   </li>
-  <li>
-    Frederick Lang (summer of 2015)<br /> Duke University
+    <li>
+    <div class="ch-item ch-img-xperson">
+      <div class="ch-info">
+        <h3>Frederick Lang</h3>
+        <p>Summer 2015, Duke Univ.</p>
+      </div>
+    </div>
   </li>
 </ul> 
+
 ***
 
 ### Alumni

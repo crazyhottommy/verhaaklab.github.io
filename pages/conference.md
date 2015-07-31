@@ -35,7 +35,7 @@ show_meta: false
 <ul class="tags-ts">
     {% for category in site.categories | sort %}
         <li style="font-size:{{ category | last | size | times: 100 | divided_by: site.categories.size | plus: 80 }}%">
-            <a class="tag-ts" href="/{{ category | first | slugize }}/">
+            <a class="tag-ts" href="{{ site.url }}/{{ category | first | slugize }}/">
                 {{ category | first }}
             </a>
         </li>
