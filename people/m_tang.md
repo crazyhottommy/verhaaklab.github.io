@@ -18,6 +18,9 @@ author: ming_tang
       <div class="ch-info">
         <h3>Ming <i>Tommy</i> Tang, PhD</h3>
         <p>03/2015 <a href="https://twitter.com/tangming2005">@tangming2005</a></p>
+        <p>I was trained as a "wet" biologist in the University of Florida. I became interested in Data science at the last two years of my PhD. I taught myself linux, R and python to do data wrangling and analysis. I am interested in doing reproducible research and wants to teach biologists programming.
+I am studying genomic alterations of glioblastoma (a terrible brain tumor) at MD Anderson Cancer Center by analyzing big sequencing data (TB size). Data I am analyzing include: whole genome sequencing data, RNA-sequencing data, ChIP-sequencing data and DNA methylation data. 
+I have a little blog where I write small things I learn http://crazyhottommy.blogspot.com/</p>
       </div>
     </div>
   </li>
